@@ -1,0 +1,83 @@
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Demo_learningWeb Api.exe
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Demo_learningWeb Api.deps.json
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Demo_learningWeb Api.runtimeconfig.json
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Demo_learningWeb Api.runtimeconfig.dev.json
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Demo_learningWeb Api.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Demo_learningWeb Api.pdb
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Demo_learningWeb Api.Views.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Demo_learningWeb Api.Views.pdb
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\obj\Debug\netcoreapp3.1\Demo_learningWeb Api.csproj.AssemblyReference.cache
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\obj\Debug\netcoreapp3.1\Demo_learningWeb Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\obj\Debug\netcoreapp3.1\Demo_learningWeb Api.AssemblyInfoInputs.cache
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\obj\Debug\netcoreapp3.1\Demo_learningWeb Api.AssemblyInfo.cs
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\obj\Debug\netcoreapp3.1\Demo_learningWeb Api.csproj.CoreCompileInputs.cache
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\obj\Debug\netcoreapp3.1\Demo_learningWeb Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\obj\Debug\netcoreapp3.1\Demo_learningWeb Api.RazorAssemblyInfo.cache
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\obj\Debug\netcoreapp3.1\Demo_learningWeb Api.RazorAssemblyInfo.cs
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\obj\Debug\netcoreapp3.1\staticwebassets\Demo_learningWeb Api.StaticWebAssets.Manifest.cache
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\obj\Debug\netcoreapp3.1\staticwebassets\Demo_learningWeb Api.StaticWebAssets.xml
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Demo_learningWeb Api.styles.css
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\obj\Debug\netcoreapp3.1\Demo_learningWeb Api.TagHelpers.input.cache
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\obj\Debug\netcoreapp3.1\Demo_learningWeb Api.TagHelpers.output.cache
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\obj\Debug\netcoreapp3.1\Demo_learningWeb Api.RazorCoreGenerate.cache
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\obj\Debug\netcoreapp3.1\Demo_learningWeb Api.RazorTargetAssemblyInfo.cache
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\obj\Debug\netcoreapp3.1\Demo_learningWeb Api.RazorTargetAssemblyInfo.cs
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\obj\Debug\netcoreapp3.1\Demo_learningWeb Api.Views.pdb
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\obj\Debug\netcoreapp3.1\Demo_learningWeb Api.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\obj\Debug\netcoreapp3.1\Demo_learningWeb Api.pdb
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\obj\Debug\netcoreapp3.1\Demo_learningWeb Api.genruntimeconfig.cache
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\obj\Debug\netcoreapp3.1\Demo_learningWeb Api.csproj.CopyComplete
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\obj\Debug\netcoreapp3.1\Demo_learningWeb Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Learning_Workspace\New_skillWeb_Api\Demo_LearningProject\Demo_learningWeb Api\Demo_learningWeb Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll

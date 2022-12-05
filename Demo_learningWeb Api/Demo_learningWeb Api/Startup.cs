@@ -1,6 +1,8 @@
+using Demo_learningWeb_Api.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -24,6 +26,13 @@ namespace Demo_learningWeb_Api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+            services.AddControllers();
+
+            services.AddSwaggerGen();
+            services.AddDbContext<WalkDbContext>(options =>
+            {
+                options.UseSqlServer(Configuration.GetConnectionString("SqlServerConstr"));
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -50,6 +59,11 @@ namespace Demo_learningWeb_Api
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapRazorPages();
+            });
+            app.UseSwagger();
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "My Test1 Api v1");
             });
         }
     }
