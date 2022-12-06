@@ -19,5 +19,6 @@ namespace Demo_learningWeb_Api.Models
         //Navigation property i region can have multiple  walk insde the class
 
         public IEnumerable<Walk> walks { get; set; }
+      
     }
 }
