@@ -42,7 +42,7 @@
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
-              "version": "[6.1.0, )"
+              "version": "[7.0.1, )"
             },
             "DocumentFormat.OpenXml": {
               "target": "Package",
@@ -57,6 +57,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[3.1.24, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

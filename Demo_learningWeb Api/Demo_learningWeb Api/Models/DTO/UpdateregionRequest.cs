@@ -5,20 +5,14 @@ using System.Threading.Tasks;
 
 namespace Demo_learningWeb_Api.Models.DTO
 {
-    public class RegionDto
+    public class UpdateregionRequest
     {
-        public Guid id { get; set; }
-        public string Code { get; set; }
+       
         public string Name { get; set; }
         public string Area { get; set; }
         public double lat { get; set; }
 
         public double Long { get; set; }
-        public object Populatation { get;  set; }
-
-        public static implicit operator RegionDto(Region v)
-        {
-            throw new NotImplementedException();
-        }
+        public object Populatation { get; set; }
     }
 }
